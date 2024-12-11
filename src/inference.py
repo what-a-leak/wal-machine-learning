@@ -1,0 +1,1 @@
+# Script pour tester les modèles en conditions réelles
